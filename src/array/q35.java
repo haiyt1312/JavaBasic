@@ -18,3 +18,4 @@ public class q35 {
         System.out.println(list);
     }
 }
+// Chưa hiểu đề bài

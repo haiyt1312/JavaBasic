@@ -14,3 +14,4 @@ public class q10 {
         System.out.println(ip.replaceAll("(?<=^|\\.)0+(?!\\.|$)", ""));
     }
 }
+// Chưa hiểu (?<=^|\.)0+(?!\.|$) là gì
